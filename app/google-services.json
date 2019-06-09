@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "660584069151",
+    "firebase_url": "https://appex-57ce4.firebaseio.com",
+    "project_id": "appex-57ce4",
+    "storage_bucket": "appex-57ce4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660584069151:android:5344c4a6fc8a9c37",
+        "android_client_info": {
+          "package_name": "com.example.etherfilter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660584069151-d3pn16e7k11pe04fk62da82bkk4c4etf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.etherfilter",
+            "certificate_hash": "0308fa24f50f43a896a3b1bf55eeca5045826075"
+          }
+        },
+        {
+          "client_id": "660584069151-ano7f1096feovbslqhqba0o5mhjtnbj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6JWQM8t8EOzR6OfDp5eMDWi83D9923HE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660584069151-ano7f1096feovbslqhqba0o5mhjtnbj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
